@@ -483,6 +483,8 @@ csmall {
 .popular-posts li img {
   float: left;
   margin-right: 20px;
+  width: 70px;
+  height: 67px;
   }
 
 .popular-posts li em {
@@ -507,4 +509,3 @@ a.anchor{
     top: -80px;
     visibility: hidden;
 }
-
